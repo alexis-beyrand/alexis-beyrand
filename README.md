@@ -8,4 +8,8 @@ Si vous voulez plus de détail sur le projet, allez soit sur mon site [ici](http
 ### universitaires
 - Le projet Neunoeil : un projet fait par moi et 4 autres camarades
 ### Personnels
-Ici iront mes projet personnels
+- SystemInformation : commencé sous pseudonyme
+- Facture Creator : Réponds a un besoin spécifique
+- Bibliothèque : Enregistre des livres dans SQLite
+- VPS : heberge mon [site vitrine](https://alexis-beyrand.fr/)
+- Site pour Doc : En cours, pas partagé
