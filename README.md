@@ -4,7 +4,8 @@
 Actuellement étudiant en dernière année de DUT Informatique à l'Institut Universitaire de Technologie de Limoges, je vise pour le futur à m'inscrire dans une formation en alternance. Je suis quelqu'un de perseverant, curieux et je n'ai pas peur de proposer mes idées.
 
 ## Mes projets
+Si vous voulez plus de détail sur le projet, allez soit sur mon site [ici](https://alexis-beyrand.fr/) ou sur les dépots github
 ### universitaires
-Ici iront les projets universitaires
+- Le projet Neunoeil : un projet fait par moi et 4 autres camarades
 ### Personnels
 Ici iront mes projet personnels
